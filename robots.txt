@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://natohzi.balry.com/sitemap.xml
